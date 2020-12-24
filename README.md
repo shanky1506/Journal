@@ -1,6 +1,10 @@
 # Journal
 
-> Public and Private Journals
+> Public and Private Journals 
+- Add user Specific Journals
+- Add Public journals
+- view them in according to the user
+- edit the journal
 
 ## Usage
 
@@ -17,12 +21,5 @@ npm run dev
 npm start
 ```
 
-
-
 > <dbname\> = journal
 > database user = shank123
-
-
-
-
-37.58 
